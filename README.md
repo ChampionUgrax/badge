@@ -1,7 +1,4 @@
 # badge
 It is for obtaining badge of YOLO.
-## Features
-
-- Shared development checklist
-- Collaborative documentation
-- Project setup instructions
+#collaboration
+It is a best collaboration shit I have ever came across with.
